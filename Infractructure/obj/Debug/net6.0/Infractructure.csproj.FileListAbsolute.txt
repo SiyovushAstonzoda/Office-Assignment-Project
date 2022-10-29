@@ -1,0 +1,15 @@
+D:\Soft-Club\SoftClub Exams\Siyovush Astonzoda MVC Exam 3\Infractructure\bin\Debug\net6.0\Infractructure.deps.json
+D:\Soft-Club\SoftClub Exams\Siyovush Astonzoda MVC Exam 3\Infractructure\bin\Debug\net6.0\Infractructure.dll
+D:\Soft-Club\SoftClub Exams\Siyovush Astonzoda MVC Exam 3\Infractructure\bin\Debug\net6.0\Infractructure.pdb
+D:\Soft-Club\SoftClub Exams\Siyovush Astonzoda MVC Exam 3\Infractructure\bin\Debug\net6.0\Domain.dll
+D:\Soft-Club\SoftClub Exams\Siyovush Astonzoda MVC Exam 3\Infractructure\bin\Debug\net6.0\Domain.pdb
+D:\Soft-Club\SoftClub Exams\Siyovush Astonzoda MVC Exam 3\Infractructure\obj\Debug\net6.0\Infractructure.csproj.AssemblyReference.cache
+D:\Soft-Club\SoftClub Exams\Siyovush Astonzoda MVC Exam 3\Infractructure\obj\Debug\net6.0\Infractructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Soft-Club\SoftClub Exams\Siyovush Astonzoda MVC Exam 3\Infractructure\obj\Debug\net6.0\Infractructure.AssemblyInfoInputs.cache
+D:\Soft-Club\SoftClub Exams\Siyovush Astonzoda MVC Exam 3\Infractructure\obj\Debug\net6.0\Infractructure.AssemblyInfo.cs
+D:\Soft-Club\SoftClub Exams\Siyovush Astonzoda MVC Exam 3\Infractructure\obj\Debug\net6.0\Infractructure.csproj.CoreCompileInputs.cache
+D:\Soft-Club\SoftClub Exams\Siyovush Astonzoda MVC Exam 3\Infractructure\obj\Debug\net6.0\Infractructure.csproj.CopyComplete
+D:\Soft-Club\SoftClub Exams\Siyovush Astonzoda MVC Exam 3\Infractructure\obj\Debug\net6.0\Infractructure.dll
+D:\Soft-Club\SoftClub Exams\Siyovush Astonzoda MVC Exam 3\Infractructure\obj\Debug\net6.0\refint\Infractructure.dll
+D:\Soft-Club\SoftClub Exams\Siyovush Astonzoda MVC Exam 3\Infractructure\obj\Debug\net6.0\Infractructure.pdb
+D:\Soft-Club\SoftClub Exams\Siyovush Astonzoda MVC Exam 3\Infractructure\obj\Debug\net6.0\ref\Infractructure.dll
